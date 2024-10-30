@@ -1,0 +1,35 @@
+.LeftSide__main {
+    height:100%;
+    width: 1050px;
+    display: flex;
+    flex-wrap: wrap;
+
+    
+}
+.product {
+    width:220px;
+    margin:30px;
+   
+
+}
+
+.Products2{
+   width:270px;
+}
+.product__name {
+    font-size: 10px!important;
+    line-height: 24px!important;
+    font-weight:bold;
+    min-width: 300px;
+
+}
+.product__rating {
+    font-size: 14px;
+    color:#007185;
+}
+.product__price {
+    color: brown;
+    font-size: 20px;
+    font-weight: 600;
+
+}

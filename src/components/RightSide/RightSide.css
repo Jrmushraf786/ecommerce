@@ -1,0 +1,16 @@
+.RightSide__main {
+    height: 100%;
+    width: 200px;
+   padding: 0px;
+}
+.RightSide__header {
+    font-weight: bold;
+    margin: 10px;
+}
+.RightSide__brandname {
+  font-weight: lighter;
+}
+.brandname {
+    display: block;
+    width: 100px;
+}

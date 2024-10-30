@@ -1,0 +1,46 @@
+.Login{
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   height: 100vh;
+}
+.LoginLogo {
+    width: 100px;
+    margin: 25px 0;
+
+}
+.Logincontainer {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    padding: 25px;
+    border: 1px solid gray;
+}
+.Logincontainer h1 {
+    margin-bottom: 25px;
+    font-size: 40px;
+    text-align:center;
+    font-weight: 800;
+}
+.Logincontainer form input {
+    width: 99%;
+    height: 33px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    margin: 9px 0;
+}
+.Logincontainer button{
+    height: 33px;
+    width: 100px;
+    background: #f0c14b;
+    border-color:#f0c14b #9c7e31 #846a29; 
+    cursor: pointer;
+    color: brown;
+    border-radius: 10px;
+    margin-top: 14px;
+
+}
+.Logincontainer p{
+    font-size: 12px;
+    margin: 9px 0;
+}

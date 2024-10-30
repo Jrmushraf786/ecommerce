@@ -1,0 +1,35 @@
+.placeorder__image {
+    height: 550px;
+    margin: 100px 150px;
+}
+.placrorder__description {
+    margin-top: 50px;
+}
+.textgap {
+    margin: 10px;
+}
+.pricetag {
+    font-size:24px;
+    color:brown;
+}
+.placeorder__order {
+    margin: 50px;
+    width: 200px;
+    height:200px;
+    margin-left: 20px;
+}
+.placeorder__button{
+    width: 100px;
+    height: 35px;
+    border-radius: 40px;
+    margin: 5px;
+    border: 0px;
+    color: black;
+}
+.buynow {
+    background-color: rgb(207, 207, 47);
+}
+.addtocart {
+    margin-top: 150px;
+    background-color: yellow;
+}
